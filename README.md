@@ -1,3 +1,3 @@
 # gregsShared
 Shared Repository
-This is more fun than a barrel of monkeys!
+This is still more fun than a barrel of monkeys!
